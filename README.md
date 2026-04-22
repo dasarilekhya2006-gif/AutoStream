@@ -1,4 +1,4 @@
-# AutoStream AI Sales Agent
+# AutoStream 
 
 A conversational AI sales agent built with **LangGraph** and **Google Gemini**, designed to handle social-to-lead workflows for AutoStream — a SaaS video editing platform for content creators.
 
