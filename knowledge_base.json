@@ -1,0 +1,56 @@
+{
+  "company": "AutoStream",
+  "description": "A SaaS product that provides automated video editing tools for content creators.",
+  "pricing": {
+    "basic_plan": {
+      "name": "Basic Plan",
+      "price_monthly": 29,
+      "features": [
+        "10 videos per month",
+        "720p resolution",
+        "Basic editing tools",
+        "Email support"
+      ]
+    },
+    "pro_plan": {
+      "name": "Pro Plan",
+      "price_monthly": 79,
+      "features": [
+        "Unlimited videos",
+        "4K resolution",
+        "AI captions",
+        "Advanced editing tools",
+        "Priority support",
+        "24/7 support"
+      ]
+    }
+  },
+  "policies": {
+    "refund_policy": "No refunds after 7 days of purchase.",
+    "support": "24/7 support is available only on the Pro plan. Basic plan users get email support during business hours.",
+    "free_trial": "No free trial mentioned. Contact sales for demo.",
+    "cancellation": "You can cancel your subscription at any time. Access continues until the end of the billing period."
+  },
+  "faq": [
+    {
+      "question": "What platforms does AutoStream support?",
+      "answer": "AutoStream supports content creators on YouTube, Instagram, TikTok, Twitter/X, and other major platforms."
+    },
+    {
+      "question": "Can I upgrade or downgrade my plan?",
+      "answer": "Yes, you can upgrade or downgrade your plan at any time. Changes take effect on the next billing cycle."
+    },
+    {
+      "question": "Is there a free trial?",
+      "answer": "We currently do not offer a free trial, but you can reach out to our sales team for a demo."
+    },
+    {
+      "question": "What video formats are supported?",
+      "answer": "AutoStream supports MP4, MOV, AVI, and most popular video formats."
+    },
+    {
+      "question": "How does AI captioning work?",
+      "answer": "AI captions automatically transcribe and add styled captions to your videos, available exclusively on the Pro plan."
+    }
+  ]
+}
